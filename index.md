@@ -5,3 +5,8 @@
 $ markdown
 Created markdown of squirrel yawning
 ```
+- [x] Create Markdown 
+- [x] Make sure Squirrel is yawning 
+- [x] Add picture of Squirrel yawning 
+- [ ] Let squirrel sleep 
+- [ ] Finish markdown course
